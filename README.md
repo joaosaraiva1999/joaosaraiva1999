@@ -1,133 +1,176 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=220&section=header&text=João%20Saraiva&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Junior%20Web%20Developer%20%7C%20Portugal%20🇵🇹&descSize=18&descAlignY=55&animation=twinkling"/>
+
 <div align="center">
 
-<!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Joao+Saraiva;Junior+Web+Developer+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1500&color=3F8EFC&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=40&lines=Building+modern+web+experiences+%E2%9C%A8;Clean+code+%C2%B7+Creative+solutions+%F0%9F%92%A1;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
 
-<br/>
+<br/><br/>
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaosaraiva1999)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrolaurosaraiva@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=joaosaraiva1999&label=Profile%20Views&color=6C63FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=joaosaraiva1999&label=Profile%20Views&color=3F8EFC&style=for-the-badge)
+
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 <br/>
 
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+🎓 &nbsp;Graduated in **Web Development & Multimedia** from IPL — Polytechnic of Leiria
 
-</div>
+💼 &nbsp;Full-Stack Trainee at **CPS, Consultores Informática** *(Jan 2025 – Jun 2025)*
 
----
+🚀 &nbsp;Built responsive UI components, integrated **REST APIs**, and collaborated in **Agile sprints**
 
-## :zap: About Me
+🌍 &nbsp;Based in **Leiria, Portugal**
 
-```yaml
-name: Joao Saraiva
-location: Leiria, Portugal
-role: Junior Web Developer
+💡 &nbsp;Passionate about **clean code**, **API integrations**, and **collaborative problem-solving**
 
-currently:
-  - Building responsive, user-focused web applications
-  - Exploring modern front-end frameworks and tools
+🌱 &nbsp;Currently exploring modern **front-end frameworks** and expanding my skill set
 
-experience:
-  - company: CPS, Consultores Informatica
-    role: Full-Stack Trainee
-    period: Jan 2025 - Jun 2025
-    highlights:
-      - Developed responsive UI components with HTML, CSS, JavaScript
-      - Integrated REST APIs for dynamic data flow
-      - Collaborated in Agile sprints and code reviews
+<br/><br/><br/>
 
-education:
-  - degree: Web Development and Multimedia
-    school: IPL - Polytechnic of Leiria
-    year: 2024
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-passions:
-  - Clean, maintainable code
-  - API integrations
-  - Collaborative problem-solving
-```
-
----
-
-## :hammer_and_wrench: Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
 
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+<br/>
 
-### Backend
-![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## :chart_with_upwards_trend: GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=joaosaraiva1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosaraiva1999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Most Used Languages"/>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,wordpress&theme=dark" alt="Frontend Skills"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaosaraiva1999&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=dotnet,php,laravel,mysql&theme=dark" alt="Backend Skills"/>
+
+<br/><br/>
+
+### 🛠️ Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/>
+
+<br/>
+
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
+
+<div align="center">
+<br/>
+
+<a href="https://github.com/joaosaraiva1999">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosaraiva1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=3F8EFC&icon_color=6C63FF&text_color=C9D1D9&ring_color=3F8EFC" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosaraiva1999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8EFC&text_color=C9D1D9" alt="Most Used Languages"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaosaraiva1999&theme=tokyonight&hide_border=true&background=0D1117&stroke=3F8EFC&ring=6C63FF&fire=00D2FF&currStreakLabel=3F8EFC&sideLabels=3F8EFC&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak"/>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaosaraiva1999&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaosaraiva1999&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8EFC&line=6C63FF&point=00D2FF&area_color=6C63FF&area=true" width="95%" alt="Activity Graph"/>
+
+<br/><br/>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=joaosaraiva1999&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="GitHub Trophies"/>
 
 </div>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## :jigsaw: Areas of Expertise
+## 🧩 &nbsp;Areas of Expertise
 
 <div align="center">
+<br/>
 
-| | | |
-|:---:|:---:|:---:|
-| :globe_with_meridians: **Web App Development** | :art: **Front-End Development** | :link: **API Integration** |
-| :desktop_computer: **Back-End Development** | :film_projector: **Multimedia for Web** | :floppy_disk: **Database Management** |
-| :gear: **Modern Frameworks** | :handshake: **Agile Teamwork** | :mag: **Problem-Solving** |
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-web-development-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
+<b>Web App<br/>Development</b>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-front-end-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
+<b>Front-End<br/>Development</b>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-api-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
+<b>API<br/>Integration</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-server-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
+<b>Back-End<br/>Development</b>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-multimedia-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
+<b>Multimedia<br/>for Web</b>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-database-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
+<b>Database<br/>Management</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-framework-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
+<b>Modern<br/>Frameworks</b>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-teamwork-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
+<b>Agile<br/>Teamwork</b>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-problem-solving-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
+<b>Problem<br/>Solving</b>
+</td>
+</tr>
+</table>
 
+<br/>
 </div>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-### :mailbox_with_mail: Let's Connect!
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+
+<br/><br/>
+
+### 📬 &nbsp;Let's Connect!
 
 <i>I'm always open to collaborating on interesting projects or discussing web development!</i>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaosaraiva1999)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaosaraiva1999)
+&nbsp;
 [![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrolaurosaraiva@gmail.com)
 
-<br/>
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer)
+<br/><br/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=120&section=footer"/>
