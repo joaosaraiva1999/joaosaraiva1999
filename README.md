@@ -135,15 +135,51 @@ const joao = {
 <div align="center">
 <br/>
 
-![](https://img.shields.io/badge/🌐_Web_App_Development-0D1117?style=for-the-badge)
-![](https://img.shields.io/badge/🎨_Front--End_Development-0D1117?style=for-the-badge)
-![](https://img.shields.io/badge/🔗_API_Integration-0D1117?style=for-the-badge)
-![](https://img.shields.io/badge/⚙️_Back--End_Development-0D1117?style=for-the-badge)
-![](https://img.shields.io/badge/🎬_Multimedia_for_Web-0D1117?style=for-the-badge)
-![](https://img.shields.io/badge/🗄️_Database_Management-0D1117?style=for-the-badge)
-![](https://img.shields.io/badge/📦_Modern_Frameworks-0D1117?style=for-the-badge)
-![](https://img.shields.io/badge/🤝_Agile_Teamwork-0D1117?style=for-the-badge)
-![](https://img.shields.io/badge/🧠_Problem_Solving-0D1117?style=for-the-badge)
+<table>
+<tr>
+<td align="center" width="33%">
+
+**`🖥️ Development`**
+
+<br/>
+
+![Web Apps](https://img.shields.io/badge/Web_App_Development-6C63FF?style=flat-square&logoColor=white)
+<br/>
+![Front-End](https://img.shields.io/badge/Front--End_Development-7C73FF?style=flat-square&logoColor=white)
+<br/>
+![Back-End](https://img.shields.io/badge/Back--End_Development-8B83FF?style=flat-square&logoColor=white)
+<br/>
+![Frameworks](https://img.shields.io/badge/Modern_Frameworks-9A93FF?style=flat-square&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**`🎨 Design & Data`**
+
+<br/>
+
+![Multimedia](https://img.shields.io/badge/Multimedia_for_Web-3F8EFC?style=flat-square&logoColor=white)
+<br/>
+![API](https://img.shields.io/badge/API_Integration-4F9EFC?style=flat-square&logoColor=white)
+<br/>
+![Database](https://img.shields.io/badge/Database_Management-5FAEFC?style=flat-square&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**`⚡ Workflow`**
+
+<br/>
+
+![Agile](https://img.shields.io/badge/Agile_Teamwork-00D2FF?style=flat-square&logoColor=white)
+<br/>
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-00C2EF?style=flat-square&logoColor=white)
+<br/>
+![Clean Code](https://img.shields.io/badge/Clean_Code-00B2DF?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br/>
 </div>
