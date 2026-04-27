@@ -133,16 +133,31 @@ const joao = {
 ## 🧩 &nbsp;Areas of Expertise
 
 <div align="center">
-
 <br/>
 
-🌐 **Web App Development** · 🎨 **Front-End Development** · 🔗 **API Integration**
+<img src="https://img.shields.io/badge/Web_App_Development-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web App Development"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Front--End_Development-7B6FFF?style=for-the-badge&logo=react&logoColor=white" alt="Front-End Development"/>
+&nbsp;
+<img src="https://img.shields.io/badge/API_Integration-3F8EFC?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Integration"/>
 
-⚙️ **Back-End Development** · 🎬 **Multimedia for Web** · 🗄️ **Database Management**
+<br/><br/>
 
-📦 **Modern Frameworks** · 🤝 **Agile Teamwork** · 🧠 **Problem Solving**
+<img src="https://img.shields.io/badge/Back--End_Development-4E8EF7?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Back-End Development"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Multimedia_for_Web-5EA3F8?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Multimedia for Web"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Database_Management-00B4D8?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database Management"/>
 
-<br/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Modern_Frameworks-00C2E0?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Modern Frameworks"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Agile_Teamwork-00D2FF?style=for-the-badge&logo=jirasoftware&logoColor=white" alt="Agile Teamwork"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Problem_Solving-00E5FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving"/>
+
+<br/><br/>
 
 </div>
 
