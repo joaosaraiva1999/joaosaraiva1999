@@ -19,23 +19,57 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<table>
+<tr>
+<td width="55%">
 
+```js
+const joao = {
+    pronouns: "he" | "him",
+    location: "Leiria, Portugal 🇵🇹",
+    education: "Web Development & Multimedia — IPL",
+    role: "Junior Web Developer",
+    languages: ["Portuguese", "English"],
+    currentFocus: "Modern front-end frameworks",
+    funFact: "I turn ☕ into <code/>"
+};
+```
+
+</td>
+<td width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>💼 &nbsp;<b>Work Experience</b> <i>(click to expand)</i></summary>
 <br/>
 
-🎓 &nbsp;Graduated in **Web Development & Multimedia** from IPL — Polytechnic of Leiria
+> **Full-Stack Trainee** — *CPS, Consultores Informática*
+> 
+> 📅 Jan 2025 – Jun 2025
+>
+> - 🔹 Developed responsive UI components with **HTML**, **CSS**, and **JavaScript**
+> - 🔹 Integrated **REST APIs** for dynamic data flow across applications
+> - 🔹 Collaborated in **Agile sprints**, code reviews, and cross-functional teams
+> - 🔹 Worked with **.NET** and **Laravel** back-end systems
 
-💼 &nbsp;Full-Stack Trainee at **CPS, Consultores Informática** *(Jan 2025 – Jun 2025)*
+</details>
 
-🚀 &nbsp;Built responsive UI components, integrated **REST APIs**, and collaborated in **Agile sprints**
+<details>
+<summary>🎓 &nbsp;<b>Education</b> <i>(click to expand)</i></summary>
+<br/>
 
-🌍 &nbsp;Based in **Leiria, Portugal**
+> **Web Development & Multimedia** — *IPL, Polytechnic of Leiria*
+>
+> 🎯 Focused on full-stack web technologies, multimedia design, and database management
 
-💡 &nbsp;Passionate about **clean code**, **API integrations**, and **collaborative problem-solving**
+</details>
 
-🌱 &nbsp;Currently exploring modern **front-end frameworks** and expanding my skill set
-
-<br/><br/><br/>
+<br/>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -101,50 +135,15 @@
 <div align="center">
 <br/>
 
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-web-development-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
-<b>Web App<br/>Development</b>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-front-end-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
-<b>Front-End<br/>Development</b>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-api-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
-<b>API<br/>Integration</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-server-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
-<b>Back-End<br/>Development</b>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-multimedia-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
-<b>Multimedia<br/>for Web</b>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-database-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
-<b>Database<br/>Management</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-framework-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
-<b>Modern<br/>Frameworks</b>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-teamwork-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
-<b>Agile<br/>Teamwork</b>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-problem-solving-flaticons-lineal-color-flat-icons.png" width="40"/><br/>
-<b>Problem<br/>Solving</b>
-</td>
-</tr>
-</table>
+![](https://img.shields.io/badge/🌐_Web_App_Development-0D1117?style=for-the-badge)
+![](https://img.shields.io/badge/🎨_Front--End_Development-0D1117?style=for-the-badge)
+![](https://img.shields.io/badge/🔗_API_Integration-0D1117?style=for-the-badge)
+![](https://img.shields.io/badge/⚙️_Back--End_Development-0D1117?style=for-the-badge)
+![](https://img.shields.io/badge/🎬_Multimedia_for_Web-0D1117?style=for-the-badge)
+![](https://img.shields.io/badge/🗄️_Database_Management-0D1117?style=for-the-badge)
+![](https://img.shields.io/badge/📦_Modern_Frameworks-0D1117?style=for-the-badge)
+![](https://img.shields.io/badge/🤝_Agile_Teamwork-0D1117?style=for-the-badge)
+![](https://img.shields.io/badge/🧠_Problem_Solving-0D1117?style=for-the-badge)
 
 <br/>
 </div>
