@@ -123,7 +123,7 @@ const joao = {
 <br/><br/>
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy-nu.vercel.app/?username=joaosaraiva1999&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy-nu.vercel.app/?username=joaosaraiva1999&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=-?,-C" width="80%" alt="GitHub Trophies"/>
 
 </div>
 
