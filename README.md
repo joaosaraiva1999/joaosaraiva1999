@@ -106,9 +106,9 @@ const joao = {
 <br/>
 
 <a href="https://github.com/joaosaraiva1999">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosaraiva1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=3F8EFC&icon_color=6C63FF&text_color=C9D1D9&ring_color=3F8EFC" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaosaraiva1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=3F8EFC&icon_color=6C63FF&text_color=C9D1D9&ring_color=3F8EFC" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosaraiva1999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8EFC&text_color=C9D1D9" alt="Most Used Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaosaraiva1999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8EFC&text_color=C9D1D9" alt="Most Used Languages"/>
 </a>
 
 <br/><br/>
