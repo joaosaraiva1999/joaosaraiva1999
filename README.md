@@ -1,9 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=220&section=header&text=João%20Saraiva&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Junior%20Web%20Developer%20%7C%20Portugal%20🇵🇹&descSize=18&descAlignY=55&animation=twinkling"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=220&section=header&text=João%20Saraiva&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Junior%20Web%20Developer%20%7C%20Portugal%20🇵🇹&descSize=18&descAlignY=55&animation=twinkling">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=220&section=header&text=João%20Saraiva&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Junior%20Web%20Developer%20%7C%20Portugal%20🇵🇹&descSize=18&descAlignY=55&animation=twinkling">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=220&section=header&text=João%20Saraiva&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Junior%20Web%20Developer%20%7C%20Portugal%20🇵🇹&descSize=18&descAlignY=55&animation=twinkling" alt="Header"/>
+</picture>
 
 <div align="center">
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1500&color=3F8EFC&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=40&lines=Building+modern+web+experiences+%E2%9C%A8;Clean+code+%C2%B7+Creative+solutions+%F0%9F%92%A1;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1500&color=3F8EFC&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=40&lines=Building+modern+web+experiences+%E2%9C%A8;Clean+code+%C2%B7+Creative+solutions+%F0%9F%92%A1;Always+learning%2C+always+growing+%F0%9F%8C%B1">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1500&color=2B5EA7&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=40&lines=Building+modern+web+experiences+%E2%9C%A8;Clean+code+%C2%B7+Creative+solutions+%F0%9F%92%A1;Always+learning%2C+always+growing+%F0%9F%8C%B1">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1500&color=3F8EFC&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=40&lines=Building+modern+web+experiences+%E2%9C%A8;Clean+code+%C2%B7+Creative+solutions+%F0%9F%92%A1;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</picture>
 
 <br/><br/>
 
@@ -81,17 +89,29 @@ const joao = {
 <br/>
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,wordpress&theme=dark" alt="Frontend Skills"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,wordpress&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,wordpress&theme=light">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,wordpress&theme=dark" alt="Frontend Skills"/>
+</picture>
 
 <br/><br/>
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=dotnet,php,laravel,mysql&theme=dark" alt="Backend Skills"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet,php,laravel,mysql&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet,php,laravel,mysql&theme=light">
+  <img src="https://skillicons.dev/icons?i=dotnet,php,laravel,mysql&theme=dark" alt="Backend Skills"/>
+</picture>
 
 <br/><br/>
 
 ### 🛠️ Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=light">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/>
+</picture>
 
 <br/>
 
@@ -106,19 +126,35 @@ const joao = {
 <br/>
 
 <a href="https://github.com/joaosaraiva1999">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaosaraiva1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=3F8EFC&icon_color=6C63FF&text_color=C9D1D9&ring_color=3F8EFC" alt="GitHub Stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=joaosaraiva1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=3F8EFC&icon_color=6C63FF&text_color=C9D1D9&ring_color=3F8EFC">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=joaosaraiva1999&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=2B5EA7&icon_color=6C63FF&text_color=333333&ring_color=3F8EFC">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaosaraiva1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=3F8EFC&icon_color=6C63FF&text_color=C9D1D9&ring_color=3F8EFC" alt="GitHub Stats"/>
+  </picture>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaosaraiva1999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8EFC&text_color=C9D1D9" alt="Most Used Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaosaraiva1999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8EFC&text_color=C9D1D9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaosaraiva1999&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2B5EA7&text_color=333333">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaosaraiva1999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8EFC&text_color=C9D1D9" alt="Most Used Languages"/>
+  </picture>
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaosaraiva1999&theme=tokyonight&hide_border=true&background=0D1117&stroke=3F8EFC&ring=6C63FF&fire=00D2FF&currStreakLabel=3F8EFC&sideLabels=3F8EFC&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=joaosaraiva1999&theme=tokyonight&hide_border=true&background=0D1117&stroke=3F8EFC&ring=6C63FF&fire=00D2FF&currStreakLabel=3F8EFC&sideLabels=3F8EFC&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=joaosaraiva1999&theme=default&hide_border=true&background=FFFFFF&stroke=E4E4E4&ring=6C63FF&fire=3F8EFC&currStreakLabel=2B5EA7&sideLabels=2B5EA7&currStreakNum=333333&sideNums=333333&dates=888888">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaosaraiva1999&theme=tokyonight&hide_border=true&background=0D1117&stroke=3F8EFC&ring=6C63FF&fire=00D2FF&currStreakLabel=3F8EFC&sideLabels=3F8EFC&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak"/>
+</picture>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaosaraiva1999&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8EFC&line=6C63FF&point=00D2FF&area_color=6C63FF&area=true" width="95%" alt="Activity Graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joaosaraiva1999&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8EFC&line=6C63FF&point=00D2FF&area_color=6C63FF&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joaosaraiva1999&theme=github-light&hide_border=true&bg_color=FFFFFF&color=2B5EA7&line=6C63FF&point=3F8EFC&area_color=3F8EFC&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaosaraiva1999&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8EFC&line=6C63FF&point=00D2FF&area_color=6C63FF&area=true" width="95%" alt="Activity Graph"/>
+</picture>
 
 
 </div>
@@ -163,7 +199,11 @@ const joao = {
 <div align="center">
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+</picture>
 
 <br/><br/>
 
@@ -181,4 +221,8 @@ const joao = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=120&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=120&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=120&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=120&section=footer" alt="Footer"/>
+</picture>
