@@ -120,10 +120,6 @@ const joao = {
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaosaraiva1999&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8EFC&line=6C63FF&point=00D2FF&area_color=6C63FF&area=true" width="95%" alt="Activity Graph"/>
 
-<br/><br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy-nu.vercel.app/?username=joaosaraiva1999&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=-?,-C" width="80%" alt="GitHub Trophies"/>
 
 </div>
 
