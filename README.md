@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=220&section=header&text=João%20Saraiva&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Junior%20Web%20Developer%20%7C%20Portugal%20🇵🇹&descSize=18&descAlignY=55&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=220&section=header&text=João%20Saraiva&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Junior%20Web%20Developer%20%7C%20Portugal%20🇵🇹&descSize=18&descAlignY=55&animation=twinkling">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=220&section=header&text=João%20Saraiva&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Junior%20Web%20Developer%20%7C%20Portugal%20🇵🇹&descSize=18&descAlignY=55&animation=twinkling" alt="Header"/>
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=220&section=header&text=João%20Saraiva&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Junior%20Web%20Developer%20%7C%20Portugal%20🇵🇹&descSize=18&descAlignY=55&animation=twinkling"/>
 
 <div align="center">
 
@@ -90,8 +86,8 @@ const joao = {
 
 ### 🎨 Frontend
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,wordpress&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,wordpress&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Creact%2Cbootstrap%2Ctailwind%2Cwordpress&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Creact%2Cbootstrap%2Ctailwind%2Cwordpress&theme=light">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,wordpress&theme=dark" alt="Frontend Skills"/>
 </picture>
 
@@ -99,8 +95,8 @@ const joao = {
 
 ### ⚙️ Backend & Database
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet,php,laravel,mysql&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet,php,laravel,mysql&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet%2Cphp%2Claravel%2Cmysql&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet%2Cphp%2Claravel%2Cmysql&theme=light">
   <img src="https://skillicons.dev/icons?i=dotnet,php,laravel,mysql&theme=dark" alt="Backend Skills"/>
 </picture>
 
@@ -108,8 +104,8 @@ const joao = {
 
 ### 🛠️ Tools & Workflow
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvscode&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvscode&theme=light">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/>
 </picture>
 
@@ -221,8 +217,4 @@ const joao = {
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=120&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=120&section=footer">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=120&section=footer" alt="Footer"/>
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=120&section=footer"/>
